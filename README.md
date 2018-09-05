@@ -3,4 +3,4 @@
 <p>Most of the problems are hosted on Kaggle and done in Python, Jupyter Notebook<p>
   
  <h2>Work in Progress</h2>
- <li>House Pricing Prediction, available at https://www.kaggle.com/c/house-prices-advanced-regression-techniques</li>
+ <li>RSNA Pneumonia Detection Challenge - Available at https://www.kaggle.com/c/rsna-pneumonia-detection-challenge</li>
